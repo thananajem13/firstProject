@@ -1,5 +1,6 @@
 button:hover {
     background: #f00 !important;
+    font-style: bold;
     color: #000 !important;
     border: 0;
     transform: scale(1.1);
