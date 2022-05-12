@@ -1,0 +1,15 @@
+button:hover {
+    background: #f00 !important;
+    color: #000 !important;
+    border: 0;
+    transform: scale(1.1);
+    transition: transform 4s;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -webkit-transition: transform 4s;
+    -moz-transition: transform 4s;
+    -ms-transition: transform 4s;
+    -o-transition: transform 4s;
+}
